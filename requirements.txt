@@ -1,0 +1,7 @@
+keras==2.10.0
+numpy==1.23.1
+opencv_python_headless==4.6.0.66
+Pillow==9.4.0
+streamlit==1.12.2
+streamlit_webrtc==0.44.2
+tensorflow==2.10.0
